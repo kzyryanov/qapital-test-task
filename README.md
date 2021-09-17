@@ -10,3 +10,9 @@ The project has two executable targets:
 No external libraries. Should work just by running targets
 
 Test coverage done for parsing, endpoint and helpers
+
+Known issues:
+- Default font
+- Color for *strong* tag needs to be set for Dark/Light mode
+- No animations in SwiftUI target
+- ... TBD
